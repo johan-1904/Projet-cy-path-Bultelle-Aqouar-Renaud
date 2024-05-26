@@ -1,1 +1,7 @@
-# Projet-cy-path-Bultelle-Aqouar-Renaud
+Bienvenue dans le jeu CY-BER Path
+
+Le but est de trouver le chemin le plus court afin d'atteindre des cibles. Le jeu se déroule sur un tableau en deux dimensions dans lequel vous allez devoir anticiper le nombre de déplacements que le robot désigné doit effectuer afin d'atteindre la cible donnée. A l’instar d’une patinoire, les robots se déplacent dans une direction sans s’arrêter jusqu'à qu'ils rencontre un obstacle un mur, ou un autre robot. Le jeu est en 3 manches, on demande la difficulté voulue en début de manche. La difficulté correspond au temps donné pour analyser la grille et compter le nombre de déplacements nécessaire pour atteindre la cible donnée. Le joueur ayant saisi le plus petit nombre de mouvements sera celui qui joue la manche, s’il atteint la cible avec le nombre de mouvement qu’il avait prédit il gagne 2 points, s’il atteint la cible avant il perd 1 point, et s’il n’atteint pas la cible dans le nombre de coups donné, tous les autres joueurs gagnent 1 point. Le joueur gagnant est celui qui possède le plus de points à la fin des 3 manches de jeu. 
+
+Pour lancer le code, vous devez télécharger tous les fichiers dans un même dossier (sauf le rapport du projet). Dans le terminal, rendez vous dans le dossier créé et utilisez la commande : 'make' ou 'make all' (la première créera seulement l'exécutable et la deuxième supprimera en plus tous les autres fichiers afin de ne laisser que l'exécutable, la première commande est la plus conseillée). Une fois compilé, lancer l’exécutable "exec.exe".
+
+Maintenant, suivez les instructions du jeu pour jouer !
